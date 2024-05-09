@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/627931/Documents/GitHub/tacoKetamine/TACOKETAMINE/Content/NPCs/manBehindSlaughter/TacoMan.uasset",
+				"C:/Users/627931/Documents/GitHub/tacoKetamine/TACOKETAMINE/Content/FirstPerson/Maps/delTacoBasement.umap",
+				"C:/Users/627931/Documents/GitHub/tacoKetamine/TACOKETAMINE/Content/Blueprints/LockerHide.uasset",
+				"C:/Users/627931/Documents/GitHub/tacoKetamine/TACOKETAMINE/Content/FirstPerson/HUD/HUD.uasset",
 				"D:/TACOKETAMINE/Content/FirstPerson/Maps/delTacoInterior.umap",
 				"D:/TACOKETAMINE/Content/prop/wiredFence/fence.uasset",
 				"D:/TACOKETAMINE/Content/prop/wiredFence/chainlink_fencing_chainlink_BaseColor.uasset",
